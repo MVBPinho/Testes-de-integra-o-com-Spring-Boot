@@ -22,3 +22,8 @@ Métodos de criação:
 - Gray-box testing
 
 Os testes de integração requerem mais recursos e tempo para serem executados e sem um bom planejamento, isso pode gerar um custo inesperado no orçamento!
+
+Componentes ou processos que consomem muito tempo ou são caros de serem executados, podem inviabilizar os testes.
+Mocks e stubs são usados para substituir esses componentes e processos.
+Stubs - Requerem mais codificação. (Estatico)
+Mocks - Requerem uma biblioteca de mocks. (Dinamico)
