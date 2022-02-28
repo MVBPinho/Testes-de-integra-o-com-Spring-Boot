@@ -1,0 +1,24 @@
+Teste de software é o processo de análise de um item de software para detectar as diferenças entre as condições existentes e necessárias (ou seja, defeitos) e avaliar os recursos do item de software.
+
+Resumindo: Teste de software é um processo realizado para descobrir defeitos do softweare antes do cliente!
+
+"Os testes podem mostrar apenas a presença de erros, e não sua ausência." (DIJKSTRA et al. 1972)
+
+É importante planejar
+- Testes levam tempo para serem produzidos
+- Existem mais de 150 tipos de testes
+- Testes precisam de um ambiente para serem executados
+- Testes precisam de pessoas para produzi-los
+
+Testes de integração seguindo Martin Fowler é "Determinar se as unidades de software desenvolvidas de forma independente funcionam corretamente quando estão conectadas entre si"
+
+Os testes de integração pode ser executados:
+- Manualmente
+- Automaticamente
+
+Métodos de criação:
+- White-box testing
+- Black-box testing
+- Gray-box testing
+
+Os testes de integração requerem mais recursos e tempo para serem executados e sem um bom planejamento, isso pode gerar um custo inesperado no orçamento!
